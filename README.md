@@ -11,9 +11,8 @@ In software projects, I typically work in a backend position (.Net, Java), but I
 ---
 <!---<img align="right" alt="vanhaggen's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhaaggen&layout=compact" /> --->
 
-<img alt="vanhaggen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vanhaaggen&show_icons=true"/>
+<img alt="yasinaksu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yasinaksu&show_icons=true"/>
 
-![](https://github-readme-codewars-stats.herokuapp.com/api/?username=vanhaaggen&card&colormode=dark_mode)
 
 ![Codewars](https://github.r2v.ch/codewars?user=yasinaksu&stroke=%23BB432C)
 
