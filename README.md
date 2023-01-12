@@ -9,7 +9,7 @@ In software projects, I typically work in a backend position (.Net, Java), but I
 - I’m currently working at [Tav Technologies](https://www.linkedin.com/company/tav-technologies/?target="_blank"), a subsidiary of TAV Airports Holding is a leading technology brand; designing, developing and implementing aviation services and solutions globally.
 ---
 
-![Codewars](https://github.r2v.ch/codewars?user=yasinaksu&name=YasinAksu&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=yasinaksu&stroke=%23BB432C)
 
 
 <!--
