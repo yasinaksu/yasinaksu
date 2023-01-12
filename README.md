@@ -5,6 +5,8 @@ In software projects, I typically work in a backend position (.Net, Java), but I
 [![Website](https://img.shields.io/static/v1?label=linkedin&logo=linkedin&labelColor=0077ee&style=for-the-badge&message=let%27s%20connect)](https://www.linkedin.com/in/yasinaksu/)
 
 ![Codewars](https://github.r2v.ch/codewars?user=yasinaksu&stroke=%23BB432C)
+
+![alt text](https://www.codewars.com/users/yasinaksu/badges/large)
 <!--
 **yasinaksu/yasinaksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
