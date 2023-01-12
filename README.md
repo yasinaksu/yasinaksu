@@ -6,9 +6,8 @@ In software projects, I typically work in a backend position (.Net, Java), but I
 
 ## What am I doing
 
-- 👨‍💻 I’m currently working at [Tav Technologies](https://www.linkedin.com/company/tav-technologies), the most amazing Fin/Reg-Tech Startup on the planet! 🌍💚
+- 👨‍💻 I’m currently working at [Tav Technologies](https://www.linkedin.com/company/tav-technologies), a subsidiary of TAV Airports Holding is a leading technology brand; designing, developing and implementing aviation services and solutions globally.
 - 🌿 Learning from everyone. All feedback is welcome.
-- 🤝 2023 Goals: Survive 
 ---
 <!---<img align="right" alt="vanhaggen's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhaaggen&layout=compact" /> --->
 
