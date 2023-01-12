@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Codewars](https://github.r2v.ch/codewars?user=yasinaksu&stroke=%23BB432C)
 <!--
 **yasinaksu/yasinaksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
