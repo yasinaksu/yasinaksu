@@ -6,7 +6,7 @@ In software projects, I typically work in a backend position (.Net, Java), but I
 
 ## What am I doing
 
-- I’m currently working at [Tav Technologies](https://www.linkedin.com/company/tav-technologies/?target="_blank"), a subsidiary of TAV Airports Holding is a leading technology brand; designing, developing and implementing aviation services and solutions globally.
+- I’m currently working at [n11.com](https://www.linkedin.com/company/n11/?target="_blank")
 ---
 
 ![Codewars](https://github.r2v.ch/codewars?user=yasinaksu&stroke=%23BB432C)
